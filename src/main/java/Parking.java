@@ -1,11 +1,13 @@
 public class Parking {
 
+    //Atributos
     private int numeroPlazasAparcamiento;
     private String nombre;
     private String direccion;
     private float superficie;
     private String ciudad;
 
+    //Constructor
     public Parking(int numeroPlazasAparcamiento, String nombre, String direccion, float superficie, String ciudad) {
         this.numeroPlazasAparcamiento = numeroPlazasAparcamiento;
         this.nombre = nombre;
@@ -14,6 +16,7 @@ public class Parking {
         this.ciudad = ciudad;
     }
 
+    //Equals
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
