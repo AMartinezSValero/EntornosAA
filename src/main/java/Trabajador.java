@@ -16,6 +16,10 @@ public class Trabajador {
         this.sueldo = sueldo;
         this.edad = edad;
     }
+
+    public Trabajador() {
+    }
+
     // Método equals
     @Override
     public boolean equals(Object o) {
