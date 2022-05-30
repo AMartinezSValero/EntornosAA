@@ -16,6 +16,9 @@ public class Parking {
         this.ciudad = ciudad;
     }
 
+    public Parking() {
+    }
+
     //Equals
     @Override
     public boolean equals(Object o) {
