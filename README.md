@@ -27,4 +27,3 @@ De todas las funcionalidades posibles en la actividad, he desarrollado las sigui
     ○	Comprobar el método equals de al menos una de las clases
 ●	Añade una release del proyecto al repositorio para que los usuarios puedan descargarse tu aplicación para usarla directamente.
 ●	Utiliza el gestor de issues para registrar como features cada una de las funcionalidades que realices del proyecto. Registra también, al menos, 3 bugs que hayas encontrado durante su desarrollo
-●	Diseña el diagrama de clases de tu proyecto
